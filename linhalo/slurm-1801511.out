@@ -1,0 +1,384 @@
+600
+Loading configurations ... 
+  Configuration file: linhalo.conf
+  [36;1mPK_INPUT[0m = input/Albert_Pnw.dat
+  [36;1mNGRID[0m = 2048
+  [36;1mNGRID_LOW[0m = 512
+  [36;1mBOXSIZE[0m = 2500
+  [36;1mSEED[0m = 600
+  [36;1mNHALO[0m = 5468750
+  [36;1mOUTPUT[0m = output/600.dat
+  [36;1mSAVE_DENS[0m = 0
+  [36;1mFORCE[0m = 0
+[70C[[32;1mDONE[0m]
+Processing the linear power spectrum ... 
+  Filename: input/Albert_Pnw.dat
+  Counting lines ...  Number of records: 5000.
+  Reading ...   5000 valid lines recorded.
+  Power spectrum interpolated.
+[70C[[32;1mDONE[0m]
+Generating the density field ... 
+  Initialising ...   The density field is initialised.
+  Generating Fourier modes ...   Density field in Fourier space is generated.
+  Executing FFT ...   FFT finished successfully.
+[70C[[32;1mDONE[0m]
+Populating haloes ... 
+ Re-binning densities ...   The density field with a lower resolution is generated.
+  Selecting largest densities ...   The 5468750th largest density: 2.57098.
+  Sampling the original field ... [70C[[32;1mDONE[0m]
+Saving haloes ... 
+  Filename : output/600.dat.
+[70C[[32;1mDONE[0m]
+700
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 800
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 900
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1000
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1100
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1200
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1300
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1400
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1500
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1600
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1700
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1800
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 1900
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2000
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2100
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2200
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2300
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2400
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2500
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2600
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2700
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2800
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 2900
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3000
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3100
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3200
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3300
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3400
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3500
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3600
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3700
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3800
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 3900
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4000
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4100
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4200
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4300
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4400
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4500
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4600
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4700
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4800
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 4900
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... 5000
+
+[35;1mWarning:[0m the output [36;1mOUTPUT[0m `output/600.dat' exists.
+srun: error: node224: task 0: Exited with exit code 252
+Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): Are you going to overwrite it? (y/n): 
+[31;1mError:[0m too many failed inputs.
+[70C[[31;1mFAIL[0m]
+[31;1mExit:[0m please check your configurations.
+Loading configurations ... All done

@@ -1,0 +1,32 @@
+2500
+Loading configurations ... 
+  Configuration file: linhalo.conf
+  [36;1mPK_INPUT[0m = input/Albert_Pnw.dat
+  [36;1mNGRID[0m = 2048
+  [36;1mNGRID_LOW[0m = 512
+  [36;1mBOXSIZE[0m = 2500
+  [36;1mSEED[0m = 2500
+  [36;1mNHALO[0m = 5468750
+  [36;1mOUTPUT[0m = output/2500.dat
+  [36;1mSAVE_DENS[0m = 0
+  [36;1mFORCE[0m = 0
+[70C[[32;1mDONE[0m]
+Processing the linear power spectrum ... 
+  Filename: input/Albert_Pnw.dat
+  Counting lines ...  Number of records: 5000.
+  Reading ...   5000 valid lines recorded.
+  Power spectrum interpolated.
+[70C[[32;1mDONE[0m]
+Generating the density field ... 
+  Initialising ...   The density field is initialised.
+  Generating Fourier modes ...   Density field in Fourier space is generated.
+  Executing FFT ...   FFT finished successfully.
+[70C[[32;1mDONE[0m]
+Populating haloes ... 
+ Re-binning densities ...   The density field with a lower resolution is generated.
+  Selecting largest densities ...   The 5468750th largest density: 2.56992.
+  Sampling the original field ... [70C[[32;1mDONE[0m]
+Saving haloes ... 
+  Filename : output/2500.dat.
+[70C[[32;1mDONE[0m]
+All done
